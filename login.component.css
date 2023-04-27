@@ -1,0 +1,54 @@
+.b1
+{
+    background-color:papayawhip;
+    height:597px;
+    width:1223px;
+    overflow-y:hidden ;
+    overflow-x: hidden;
+}
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.container-styles{
+	position: relative; 
+	top: 180px;
+	width:50%
+}
+
+.padding{
+  padding-bottom:0px;
+  margin-bottom:0px;
+}
+
+.link-underline{
+   color:#3baf31;
+    text-decoration: underline;
+}
+
+.error{
+    color: red;
+    position:relative;
+    left:50px;
+}
+.class1{
+    width:360px;
+    height:min-content;
+    padding:20px;
+    border: 5px solid green;
+    border-radius:12px;
+    background:#ffffff;
+    margin: auto;
+    margin-top: 150px;
+}
+.panel-heading  h2{
+    font-size: 30px;
+    margin-bottom: 25px;
+    margin-left: 99px;
+    
+}
+.form-control{
+    margin-left: 40px;
+    width: 200px;
+    height:25px;
+}
+
